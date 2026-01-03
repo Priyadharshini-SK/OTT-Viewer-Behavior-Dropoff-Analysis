@@ -32,11 +32,9 @@ The goal is to identify patterns that impact watch completion and viewer experie
 - Actionable insights for content and UX optimization
 
 ## 🛠 Tools & Skills Used
-- Power BI
-- DAX Measures
-- Data Modeling
-- Data Visualization
-- Business Insight Generation
+- Business Intelligence (BI): Power BI (Desktop, Power Query, DAX)
+- Data Source: CSV/Excel
+- Version Control: Git / GitHub
 
 ## 📸 Dashboard Preview
 (Screenshots available in the screenshots folder)
