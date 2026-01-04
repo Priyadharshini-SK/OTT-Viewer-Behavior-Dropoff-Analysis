@@ -37,7 +37,8 @@ The goal is to identify patterns that impact watch completion and viewer experie
 - Version Control: Git / GitHub
 
 ## 📸 Dashboard Preview
-(Screenshots available in the screenshots folder)
+
+All dashboard screenshots are available in the **screenshots/ folder**, and the **dataset CSV** file is included in the repository.
 
 ## 📌 Key Insights
 - Longer episodes (>60 mins) show higher early-stage drop-off
